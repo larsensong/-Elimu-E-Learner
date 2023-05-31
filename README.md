@@ -34,3 +34,4 @@ Elimu e-learner will have a major impact on e learner based platform since it wi
 
 The existing ALX intranet and Kimba are efficient, Elimu e learner provides a platform not only for learners but it can still be employed within an organization or institution for reviewing work and enhancing growth.
 
+                  API $ Methods
