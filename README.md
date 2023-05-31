@@ -5,9 +5,9 @@ Elimu e-learner is an online based platform  inspired by online learning platfor
 
 
 
-  Collaborators:
+    Collaborators:
   
-  larsen song
+  ***larsen song***
   
    Technologies employed:
    
