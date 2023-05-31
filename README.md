@@ -37,6 +37,6 @@ The existing ALX intranet and Kimba are efficient, Elimu e learner provides a pl
                   API $ Methods
                   
 Although the home page of the website is HTML, the online platform for Elimu will be written in Python.
-I'll use it in conjunc
-tion with the Flask API to build the website.  Because my notion is portable, customizable, and lightweight, it is more feasible to use the Flask API. Some of the methods employed are:
+I'll use it in conjunction with the Flask API to build the website. 
+Because my notion is portable, customizable, and lightweight, it is more feasible to use the Flask API. Some of the methods employed are:
 
