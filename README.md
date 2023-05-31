@@ -40,3 +40,7 @@ Although the home page of the website is HTML, the online platform for Elimu wil
 I'll use it in conjunction with the Flask API to build the website. 
 Because my notion is portable, customizable, and lightweight, it is more feasible to use the Flask API. Some of the methods employed are:
 
+/api/user/<id>: 
+GET: Returns information about the registered user(username,, github link, email )
+
+
