@@ -26,7 +26,7 @@ The checker is then supposed to provide a score and this grading is employed bas
  The main challenge is the platform will only be able to review python based projects.As at now the platform will only run on a local machine. But its still under development to be web based
 
 
-                Risks
+          Risks
 Elimu e-learner will have a major impact on e learner based platform since it will not only facilitate grading but at the same time allow its users to be able to easily find errors and issues that do not follow the rules set when carrying out projects.
    
 
