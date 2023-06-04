@@ -23,7 +23,7 @@ Registered users are required to provide a link to the github account where the 
 
 The checker is then supposed to provide a score and this grading is employed based on Pycodestyle,File permissions, Shebang, Emptyline and the correct output of the code written.
    
- The main challenge is the platform will only be able to review python based projects.As at now the platform will only run on a local machine. But its still under development to be web based
+ The main challenge is the platform will only be able to review python based projects.As at now the platform will only run on a local machine. But its still under development to be web based.
 
 
           Risks
