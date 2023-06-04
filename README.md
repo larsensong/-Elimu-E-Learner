@@ -42,4 +42,4 @@ GET: Returns information about the registered user(username,, github link, email
 GET: returns a list of all projects submitted by the user
 
               Collaborators:
-  larsen song
+  Larsen song
