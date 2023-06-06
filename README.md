@@ -6,7 +6,7 @@ Elimu e-learner is an online based platform  inspired by online learning platfor
   
       Technologies employed:
    
-   MySql, SqlAlchemy, Python,Bootstrap, Javascript,Bootstrap and Nginx..
+   MySql, SqlAlchemy, Python,Bootstrap, Javascript,Bootstrap and Nginx...
    
      Challenge
 
