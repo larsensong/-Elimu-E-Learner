@@ -22,7 +22,7 @@ The checker is then supposed to provide a score and this grading is employed bas
 
 
           Risks
-Elimu e-learner will have a major impact on e learner based platform since it will not only facilitate grading but at the same time allow its users to be able to easily find errors and issues that do not follow the rules set when carrying out projects.
+Elimu e-learner will have a major impact on e learner based platform since it will not only facilitate grading but at the same time allow its users to be able to easily find errors and issues that do not follow the rules set when carrying out projects..
    
 
               Existing Platform
