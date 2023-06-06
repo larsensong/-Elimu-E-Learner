@@ -16,7 +16,7 @@ Elimu e-learner provides a platform for rechecking work done by students or juni
     Features:
 Registered users are required to provide a link to the github account where the project is done.The mentor will then be able to navigate to the project that was submitted by the student and then run a checker on it.
 
-The checker is then supposed to provide a score and this grading is employed based on Pycodestyle,File permissions, Shebang, Emptyline and the correct output of the code written.
+The checker is then supposed to provide a score and this grading is employed based on Pycodestyle,File permissions, Shebang, Emptyline and the correct output of the code written..
    
  The main challenge is the platform will only be able to review python based projects.As at now the platform will only run on a local machine. But its still under development to be web based.
 
