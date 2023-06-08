@@ -41,5 +41,6 @@ GET: Returns information about the registered user(username,, github link, email
 /api/<user>/project: 
 GET: returns a list of all projects submitted by the user
 
-              Collaborators:
-  Larsen song
+                  Author
+
+Larsen Song - [Github](https://github.com/larsensong) / [LinkedIn](https://www.linkedin.com/in/larsen-mulamba-236a0718b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFdYyfFARSJ24crdZLoz5Fg%3D%3D)
