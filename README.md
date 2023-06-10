@@ -39,7 +39,7 @@ Because my notion is portable, customizable, and lightweight, it is more feasibl
 GET: Returns information about the registered user(username,, github link, email )
   
 /api/<user>/project: 
-GET: eturns a list of all projects submitted by the user
+GET: Returns a list of all projects submitted by the user
 
                   Author
 
