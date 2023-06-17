@@ -25,7 +25,7 @@ The checker is then supposed to provide a score and this grading is employed bas
 Elimu e-learner will have a major impact on e learner based platform since it will not only facilitate grading but at the same time allow its users to be able to easily find errors and issues that do not follow the rules set when carrying out projects..
    
 
-              Existing Platform
+              Existing Platform:
 
 The existing ALX intranet and Kimba are efficient, Elimu e learner provides a platform not only for learners but it can still be employed within an organization or institution for reviewing work and enhancing growth..
 
