@@ -8,7 +8,7 @@ Elimu e-learner is an online e leraning based platform  inspired by online learn
    
    MySql, SqlAlchemy, Python,Bootstrap, Javascript,Bootstrap and Nginx...
    
-     Challenge
+     Challenge:
 
   Getting started:
 Elimu e-learner provides a platform for rechecking work done by students or junior employees (software developers). The code review based platform allows users to register using a unique email and password for account creation.
