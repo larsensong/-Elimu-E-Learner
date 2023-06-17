@@ -29,7 +29,7 @@ Elimu e-learner will have a major impact on e learner based platform since it wi
 
 The existing ALX intranet and Kimba are efficient, Elimu e learner provides a platform not only for learners but it can still be employed within an organization or institution for reviewing work and enhancing growth..
 
-               API $ Methods
+               API $ Methods:
                   
 Although the home page of the website is HTML, the online platform for Elimu will be written in Python.
 I'll use it in conjunction with the Flask API to build the website. 
